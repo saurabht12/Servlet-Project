@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/kls105/workspace/Spring Work/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/487907385.index
+/SpringLogin/src/main/resources

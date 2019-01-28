@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-oracle">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/kls105/workspace/Servlet git Project/Excercises/Day 3/output/libs/servlet.jar"/>
+	<classpathentry kind="lib" path="/home/kls105/workspace/Servlet git Project/Excercises/Day 3/output/libs/mongo-java-driver-3.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/kls105/workspace/Servlet git Project/Excercises/Day 3/output/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
